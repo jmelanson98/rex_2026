@@ -1,0 +1,5 @@
+# Files to NOT track in repo
+
+*.DS_Store
+*.RData
+*.Rhistory
